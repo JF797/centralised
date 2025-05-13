@@ -1,6 +1,7 @@
+
+
 public class application {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+    public static void main(String[] args) {
 
         // Define regex labels
 
@@ -12,6 +13,9 @@ public class application {
 
     }
 }
+
+
+
 class collectLog {
 
 }
